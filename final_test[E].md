@@ -133,4 +133,4 @@ ___ Bonus 3 (Idea Map): BGM executes and timing is comfortable (Evaluate up to 1
 ---
 
 ### Total Points: ___________ out of (Maximum Possible: 125)
-Combined with bonus points, a final score at 80 or above passes the evaluation.
+Combined with bonus points, a final score at 70 or above passes the evaluation.
