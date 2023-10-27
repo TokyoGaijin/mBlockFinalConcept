@@ -58,12 +58,12 @@ To find these numbers:
 
 ### Challenge
 Create a 2p version of this game.
-- Blue on the right, red on the left
+- Blue on the left, red on the right
 - Blue moves up and down with `w` and `s`
 - Red moves up and down with `up arrow` and `down arrow`
 - Game ends when a side gets 12 points
 - The scoreboard should reflect your score accurately.
-- Game ends when a player gets 12 points.
+
 
 ### Idea Map
 | | | |
