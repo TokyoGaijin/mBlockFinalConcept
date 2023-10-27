@@ -18,6 +18,9 @@ Let's take a look at some of the details of these objects.
 
 ### The Score GUI
 ![Alt text](image-4.png)
+
+
+
 ![Alt text](image-5.png)
 
 ![Alt text](image-6.png)
