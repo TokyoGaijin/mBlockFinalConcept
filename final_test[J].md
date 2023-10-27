@@ -1,6 +1,32 @@
-# 最終のテストにようこそ
+# Python from Scratch Lesson 07 最終課題(2)
 
-Python from Scratchの最終テストは**PONG**を作ることです。
+<style>
+  *{
+    font-family: "BIZ UDPGothic";
+    font-size: 14px;
+    line-height: 2rem;
+  }
+  h1{
+    font-size: 1.4rem;
+  }
+  h2{
+    font-size: 1.2rem;
+    border-bottom: 1px solid green;
+  }
+  strong{
+    color: green;
+  }
+  img{
+    display: block;
+    max-height: 50mm;
+    width: auto;
+    margin: auto;
+  }
+</style>
+
+
+教科書についている課題か、この課題かどちらかを選択して取り組みましょう。
+この最終課題は**PONG**を作ることです。
 
 ![Alt text](image-1.png)
 
