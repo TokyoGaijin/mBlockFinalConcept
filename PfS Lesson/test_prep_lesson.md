@@ -1,6 +1,6 @@
 # Final Lesson: Learning the Basics by Game Development
 
-## A: `continue` Events (イベントを続く。。。)
+## A: Pythonを学んで続きましょう
 ## Lesson Game: *Number Guessing Game*
 ![Alt text](image.png)
 この設定そのまま
@@ -29,21 +29,21 @@ PythonのIDEで作りましょう！
 ![Alt text](image-6.png)
 
 ### 5. ゲームループを作りましょう
-![Alt text](image-8.png)
+![Alt text](image-35.png)
 
-### 6. `continue`
+### 6. ループプログラミング
 **意味：** ループの一番最初から戻る事
-![Alt text](image-9.png)
+![Alt text](image-36.png)
 
 ### 7. プログラミングを続きます
-![Alt text](image-10.png)
+![Alt text](image-37.png)
 
 
 ## ループのトリー
 下の写メを見てください。
-![Alt text](image-11.png)
+![Alt text](image-38.png)
 
-![Alt text](image-12.png)
+![Alt text](image-39.png)
 `break`を入れるとループは終了のことです。
 
 ### 8.　実行してください
@@ -111,16 +111,13 @@ Pandaのコードが表示することを確認してください。
 ### 1. 全部をリセットしてください
 ![Alt text](image-25.png)
 
-### 2. 趣味のリストを作りましょう
-![Alt text](image-28.png)
+### 2. 趣味のリストを作ると答えを選びましょう
+![Alt text](image-34.png)
 
-### 3. 答えを選びましょう
-![Alt text](image-27.png)
+### 3. 全部のゲームを作りましょう
+![Alt text](image-33.png)
 
-### 4. 全部のゲームを作りましょう
-![Alt text](image-29.png)
-
-### 5. リストを見ながら遊んでみてください
+### 4. リストを見ながら遊んでみてください
 ![Alt text](image-30.png)
 
 ---
